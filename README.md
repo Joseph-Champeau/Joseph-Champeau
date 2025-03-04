@@ -4,7 +4,6 @@
 - 📚 4th year Computer Science Student @ University of Ottawa
 - 🎾 Tennis Enthusiast 
 - 🎥 Movie Fan, Check out my Movie Review Page -> (coming soon)
-- Want to know more about me? [My Portfolio](https://joseph-champeau.github.io/Portfolio/)
 
 **Connect with me:**
 
