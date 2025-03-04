@@ -11,4 +11,4 @@
 
 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,java,c++,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql,python,java,c++)](https://skillicons.dev)
