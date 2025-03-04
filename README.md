@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋, I'm Joseph
 
-<!--
-**Joseph-Champeau/Joseph-Champeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📚 4th year Computer Science Student @ Univeristy of Ottawa (Sep 2020 - May 2025)
+- 🎾 Tennis Enthusiast 
+- 🎥 Movie Fan, Check out my Movie Review Page -> (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect with me:**
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joseph-champeau-3b7ab01b1/)
+
+**Skills**
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,java,c++,mysql,flutter&perline=3)](https://skillicons.dev)
