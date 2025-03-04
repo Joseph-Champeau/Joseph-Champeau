@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Joseph
 
 
-- 📚 4th year Computer Science Student @ Univeristy of Ottawa (Sep 2020 - May 2025)
+- 📚 4th year Computer Science Student @ University of Ottawa (Sep 2020 - May 2025)
 - 🎾 Tennis Enthusiast 
 - 🎥 Movie Fan, Check out my Movie Review Page -> (coming soon)
 - Want to know more about me? [My Portfolio](https://joseph-champeau.github.io/Portfolio/)
@@ -12,4 +12,4 @@
 
 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql,python,java,c++)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql,python,java,c++)
