@@ -5,6 +5,8 @@
 - 🎾 Tennis Enthusiast 
 - 🎥 Movie Fan, Check out my Movie Review Page -> (coming soon)
 
+Check out my [Portfolio!](https://joseph-champeau.github.io/Portfolio/)
+
 **Connect with me:**
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joseph-champeau-3b7ab01b1/)
