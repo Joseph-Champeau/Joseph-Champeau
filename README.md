@@ -1,9 +1,8 @@
-## Hi 👋, I'm Joseph
+## Hi, I'm Joseph Champeau
 
 
-- 📚 4th year Computer Science Student @ University of Ottawa
-- 🎾 Tennis Enthusiast 
-- 🎥 Movie Fan, Check out my Movie Review Page -> (coming soon)
+- 💻 4th year Computer Science Student @ University of Ottawa
+- I enjoy 🎾 Tennis + 🎥 Movies + 📱 Doomscrolling in my free time
 
 Check out my [Portfolio!](https://joseph-champeau.github.io/Portfolio/)
 
